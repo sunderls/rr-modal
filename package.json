@@ -1,0 +1,29 @@
+{
+  "name": "rr-modal",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "author": "@sunderls",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^6.7.7",
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-latest": "^6.24.0",
+    "babel-preset-react": "^6.23.0",
+    "css-loader": "^0.27.3",
+    "postcss-cssnext": "^2.10.0",
+    "postcss-loader": "^1.3.3",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-hot-loader": "3.0.0-beta.6",
+    "react-redux": "^5.0.3",
+    "redux": "^3.6.0",
+    "style-loader": "^0.16.0",
+    "webpack": "beta",
+    "webpack-dev-server": "beta"
+  }
+}

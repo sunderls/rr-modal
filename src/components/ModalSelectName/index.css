@@ -1,0 +1,16 @@
+.outer {
+    composes: outer from '../../css/modal.css';
+}
+
+.inner {
+    composes: inner from '../../css/modal.css';
+}
+
+.item {
+	cursor: pointer;
+	padding: 1rem;
+}
+
+.item:hover {
+	background-color: #eee;
+}
